@@ -5,11 +5,11 @@
     "lang": "ko",
     "version": "1.0.0",
     "classPath": "anilife.js",
-    "sourceCodeUrl": "https://github.com/dlghyoung/Mangayomimimi",
     "apiUrl": "",
-    "iconUrl": "",
+    "iconUrl": "https://anilife01.tv/favicon.ico",
     "isNsfw": false,
     "hasCloudflare": false,
-    "type": "anime"
+    "type": "anime",
+    "isFullData": true
   }
 ]
