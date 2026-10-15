@@ -4,11 +4,12 @@
     "id": "anilife",
     "lang": "ko",
     "version": "1.0.0",
-    "ns": "AniLifeSource",
-    "apkName": "",
-    "website": "https://anilife01.tv",
-    "pkg": "anilife.js",
-    "hasReadme": false,
-    "iconUrl": ""
+    "classPath": "anilife.js",
+    "sourceCodeUrl": "https://github.com/dlghyoung/Mangayomimimi",
+    "apiUrl": "",
+    "iconUrl": "",
+    "isNsfw": false,
+    "hasCloudflare": false,
+    "type": "anime"
   }
 ]
